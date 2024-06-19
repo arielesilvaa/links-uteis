@@ -10,9 +10,9 @@ Esse projeto foi a primeira criação de uma LInk OFICIAL, SIM a primeira págin
 
 📚 Projetos
 
-Link do Projeto - https://arielesilvaa.github.io/uran-uran
+Link do Projeto -  https://arielesilvaa.github.io/links-uteis/
 
-Link do código - https://github.com/arielesilvaa/uran-uran
+Link do código -  https://github.com/arielesilvaa/links-uteis/tree/main
 
 🎯 Objetivos Aprimorar meus conhecimentos e ganhar experiência
 
